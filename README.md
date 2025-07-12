@@ -7,10 +7,10 @@ Email Me 👉 ✉️ **sonidevi22299911@gmail.com** For Collaboration/Project or
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 💬 **Ask me about:** Collaboration
+- 📫 **How to reach me:** sonidevi22299911@gmail.com
+- 😄 **Pronouns:** Ashish Kumar
+- ⚡ **Fun fact:** I Love Problem Solving and Web Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-59a142290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonidevi22299911@gmail.com) 
