@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ashish Kumar
-**A passionate Software Engineer || DevOps Engineer**
+**A passionate Software Engineer || Web Development**
 
 Email Me 👉 ✉️ **sonidevi22299911@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
