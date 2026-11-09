@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Ashish Kumar
 **A passionate Software Engineer || Web Development**
 
-Email Me 👉 ✉️ **sonidevi22299911@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ashishkr620222@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration
-- 📫 **How to reach me:** sonidevi22299911@gmail.com
+- 📫 **How to reach me:** ashishkr620222@gmail.com
 - 😄 **Pronouns:** Ashish Kumar
 - ⚡ **Fun fact:** I Love Problem Solving and Web Development
 
