@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **sonidevi22299911@gmail.com** For Collaboration/Project or
 - ⚡ **Fun fact:** I Love Problem Solving and Web Development
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-59a142290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonidevi22299911@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-59a142290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishkr620222@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
